@@ -1,0 +1,11 @@
+
+This is the content of file.raf file
+10	Nixon,Kathy	100.1
+20	Reagan,Ron	200.2
+30	Clinton,Bill	300.3
+40	Bush,Barbra	400.4
+50	Carter,Jimmy	500.5
+60	Bush,George	600.6
+0	bbbbbbbbbbbbbbb	0
+0	bbbbbbbbbbbbbbb	0
+90	Obama,Barack	900.9
